@@ -1,0 +1,15 @@
+          RESTORAN
+       NOTA PEMBAYARAN
+--------------------------------
+No. Pesanan : 1
+Meja        : M01
+Tanggal     : 2026-11-12 11:42:59
+--------------------------------
+Mie Ayam
+17 x Rp15.000 = Rp255.000
+Cicak Rebus
+4 x Rp450.000 = Rp1.800.000
+--------------------------------
+TOTAL : Rp2.055.000
+STATUS: Menunggu
+Terima kasih.
